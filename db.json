@@ -1,0 +1,26 @@
+{
+  "rentals": [
+    {
+      "id": 1156,
+      "title": "hello",
+      "about": "Lorem Ipsum",
+      "stuff": ["Electricity", "TV", "Games"],
+      "available_dates": ["05/12/2019", "08/09/2019"],
+      "maps_coords": ["41.40338", "2.17403"],
+      "rules": ["No Party", "No Dogs/Cats"],
+      "refunds": ["No Refunds after 48h", "Partial Refund"],
+      "owner_id": ds1516efs5d6f115615df
+    }
+  ],
+  "profile": {
+    "_id": "ds1516efs5d6f115615df",
+    "first_name": "ever",
+    "last_name": "side",
+    "phone": "+33755445442",
+    "mail": "place@holder.com",
+    "gender": "Man",
+    "birth": "07/09/2019",
+    "country": "France",
+    "language": "FR"
+  }
+}
