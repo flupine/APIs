@@ -9,7 +9,7 @@
       "maps_coords": ["41.40338", "2.17403"],
       "rules": ["No Party", "No Dogs/Cats"],
       "refunds": ["No Refunds after 48h", "Partial Refund"],
-      "owner_id": ds1516efs5d6f115615df
+      "owner_id": "ds1516efs5d6f115615df"
     }
   ],
   "profile": {
